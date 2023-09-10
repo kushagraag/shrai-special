@@ -1,0 +1,13 @@
+id,website_url,restaurant_provided_menu_link,telephone_number,year_established,email_address,offers_delivery,offers_pickup,offers_group_order,offers_catering,has_bar,has_counter,has_gifting,has_takeout,order_online_link,facebook_link
+1,https://locations.outback.com/california/pittsburg/4350-century-blvd,https://www.outback.com/menu,(925) 778-3845,,,True,True,True,False,False,False,False,True,,
+2,http://www.naomisushi.com,,(650) 321-6902,,,True,True,True,False,,,,,,
+3,https://www.famousdaves.com/hayward-ca,https://www.famousdaves.com/Menu,(510) 782-2030,,,True,True,True,False,False,False,False,True,https://togo.famousdaves.com/menu/famous-daves-hayward?olonwp=0kNpREIXbEy9skvK9WX_Og,
+4,https://www.burmabistro.net,https://www.burmabistro.net/menus,(408) 372-5422,2015,,True,True,True,False,False,False,False,False,,
+5,http://www.enotecalastoria.com,https://www.enotecalastoria.com/takeoutdelivery-menu,(408) 625-7272,2010,info@enotecalastoria.com,True,True,True,False,False,False,False,True,,
+6,http://408-253-2232.atmenu.at,http://408-253-2232.atmenu.at/Menu,(408) 253-2232,,,True,True,True,False,,,,,,
+7,https://www.grubatmos.com,https://www.grubatmos.com/menu.html,(408) 871-1300,2013,,True,True,True,False,False,False,False,True,,
+8,https://alfredoitlaliantogo.com,http://alfredositalianpetaluma.com/menus/dinner,(707) 782-0500,,,True,True,True,False,False,False,False,False,,
+9,http://dacafe-sf.com,,(415) 668-7883,,turnervicentetgzpu74@gmail.com,True,True,True,False,,,,,,
+10,https://maivietnamesecotati.com,https://maivietnamesecotati.com/products/items/MTEwNA/NDQx,(707) 665-9628,,,True,True,True,False,,,,,,
+11,https://bluesakanablackhawk.com,https://thegrilleatblackhawk.com/menu/,(925) 648-7838,2016,,True,True,True,False,False,False,False,False,,
+12,https://www.dashijapaneserestaurant.com/public/site/index.php,https://www.dashijapaneserestaurant.com/public/site/menu.php,(650) 328-6868,,,True,True,True,False,False,False,False,False,,
